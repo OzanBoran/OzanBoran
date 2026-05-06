@@ -31,11 +31,3 @@ Multi-tenant web app for restaurant operations. Next.js frontend with strict lay
 
 **Beauty Salon CRM** — Commercial Client Project  
 Appointment scheduling and client management system for a beauty salon business. Built under NDA; case study available on [ozanboran.com](https://ozanboran.com).
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzanBoran&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OzanBoran&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
