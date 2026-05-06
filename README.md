@@ -36,7 +36,6 @@ Appointment scheduling and client management system for a beauty salon business.
 
 ## GitHub Stats
 
-## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzanBoran&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzanBoran&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OzanBoran&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OzanBoran&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
