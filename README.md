@@ -1,51 +1,40 @@
-<h1 align="center">Hi, I'm Ozan 👋</h1>
-<p align="center">Frontend Developer • React.js • Next.js • React Native • Tailwind CSS</p>
+# Hi, I'm Ozan
+
+Frontend Developer · React.js · Next.js · TypeScript · Node.js
 
 ---
 
-### 🚀 About Me
+## About Me
 
-I'm Ozan, a frontend developer based in Istanbul. I specialize in building modern, responsive, and high-performance user interfaces using React.js, Next.js, and React Native.
+Frontend developer based in Istanbul. I build scalable, maintainable web applications — and take ownership of architecture, not just implementation.
 
-- 🧑‍💻 I’ve developed full-scale **CRM systems**, **e-commerce apps**, and custom web projects as a freelancer.
-- 📱 Skilled in **mobile development** with React Native and API integrations.
-- 🎯 I care deeply about **user experience** and **performance optimization**.
-- 🌐 Portfolio: [ozanboran.com](https://ozanboran.com)
-- 📫 Contact me: ozan.boran91@gmail.com
+Currently open to **remote frontend or full-stack positions** with EU-based companies.
 
----
-
-### 🛠️ Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+- Portfolio: [ozanboran.com](https://ozanboran.com)
+- Email: ozan.boran91@gmail.com
+- Trained at [École 42](https://42.fr) — project-based, peer-reviewed engineering program
 
 ---
 
-### 📌 Featured Projects
+## Tech Stack
 
-- 🛒 [React Native Shop App](https://github.com/OzanBoran/RN-Shop-App)  
-  A mobile shopping app with JWT auth, Express.js backend, and product API integration.
-
-- 🖼️ [Picture-in-Picture Web App](https://github.com/OzanBoran/Picture-In-Picture)  
-  Browser-based screen sharing using JavaScript and native APIs.
-
-- 🌗 [Light/Dark Mode Web App](https://github.com/OzanBoran/Light-Dark-Mode)  
-  A theme toggle UI using localStorage and responsive design.
-
-- 🎙️ [Joke Teller App](https://github.com/OzanBoran/JokeTeller)  
-  A fun voice-based joke app using the VoiceRSS API.
+**Frontend:** TypeScript · React · Next.js · Tailwind CSS · shadcn/ui  
+**Backend:** Node.js · AWS Lambda · Aurora Serverless · AWS Cognito · SST  
+**Tooling:** Git · REST APIs · Figma
 
 ---
 
-### 📊 GitHub Stats
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OzanBoran&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzanBoran&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+**[BiteHub](https://github.com/OzanBoran/bitehub)** — Restaurant Management SaaS  
+Multi-tenant web app for restaurant operations. Next.js frontend with strict layered architecture (service layer, React Context, mock data pattern designed for seamless backend swap). Serverless AWS backend via SST — Lambda, Aurora Serverless, Cognito.
+
+**Beauty Salon CRM** — Commercial Client Project  
+Appointment scheduling and client management system for a beauty salon business. Built under NDA; case study available on [ozanboran.com](https://ozanboran.com).
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzanBoran&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OzanBoran&layout=compact&theme=dark)
