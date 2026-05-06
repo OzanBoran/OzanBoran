@@ -12,7 +12,7 @@ Currently open to **remote frontend or full-stack positions** with EU-based comp
 
 - Portfolio: [ozanboran.com](https://ozanboran.com)
 - Email: ozan.boran91@gmail.com
-- Trained at [École 42](https://42.fr) — project-based, peer-reviewed engineering program
+- Trained at [École 42]([https://42.fr](https://42turkiye.com.tr/) — project-based, peer-reviewed engineering program
 
 ---
 
